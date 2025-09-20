@@ -34,7 +34,6 @@ We process your data based on:
 - Provide authentication and account security features
 
 ### 2.2 Service Improvement
-- Enhance AI algorithms for more accurate try-on results
 - Analyze usage patterns for new feature development
 - Optimize app performance and user experience
 
@@ -51,11 +50,6 @@ We **DO NOT** sell, trade, or transfer your personal data to third parties witho
 - **Cloud Storage Providers**: Data is stored on secure cloud servers for backup and synchronization
 - **Analytics Services**: Anonymous usage data for service improvement
 - **Legal Compliance**: When required by law or valid legal process
-
-### 3.2 Specific Third-Party Partners
-- **AI Processing**: TryVibe API (https://tryvibeapi.gasanacademy.id/)
-- **Cloud Storage**: Secure cloud infrastructure providers
-- **Analytics**: Anonymous usage analytics (opt-out available)
 
 ### 3.3 Data Security Measures
 - All server communications use HTTPS encryption
@@ -80,7 +74,7 @@ We **DO NOT** sell, trade, or transfer your personal data to third parties witho
 ## 5. Your Rights and Choices
 
 ### 5.1 Access and Control Rights
-- View and edit profile information
+- View profile information
 - Delete try-on history and uploaded photos
 - Download your personal data (data portability)
 - Request correction of inaccurate data
@@ -89,7 +83,6 @@ We **DO NOT** sell, trade, or transfer your personal data to third parties witho
 - Delete your account and all associated data
 - Request deletion of specific photos or content
 - Opt-out of non-essential communications
-- Withdraw consent for AI processing (may limit functionality)
 
 ### 5.3 California Privacy Rights (CCPA/CPRA)
 California residents have additional rights:
@@ -166,5 +159,3 @@ This Privacy Policy complies with:
 **Policy Version**: 1.0
 
 By using the TryVibe application, you acknowledge that you have read, understood, and agree to the collection and use of information in accordance with this Privacy Policy.
-
-**Privacy Policy URL**: [To be hosted publicly for Google Play Store compliance]
