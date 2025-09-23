@@ -153,9 +153,53 @@ This Privacy Policy complies with:
 - **Children's Online Privacy Protection Act (COPPA)**
 - **Indonesian Data Protection Regulations**
 
+## 12. AI-Generated Content and Moderation
+
+We use AI to generate try-on simulation images and related outputs. To keep users safe and comply with app store policies, we implement the following measures:
+
+### 12.1 AI Transparency and Labeling
+- AI-generated outputs (e.g., try-on results) are clearly labeled as "AI-generated" or similar indicators in the UI.
+- Users are advised that results may not be 100% accurate and should be used for illustrative purposes only.
+
+### 12.2 Prohibited Content
+Users may not upload or generate content that is:
+- Illegal or promotes illegal activity
+- Sexual, pornographic, or sexually explicit (including minors or young-looking persons)
+- Violent, hateful, harassing, or bullying
+- Discriminatory or racist/sexist/hate speech
+- Self-harm or suicide-promoting content
+- Graphic medical or shocking content
+- Intellectual property violations (copyright, trademark) or infringing on others’ likeness without consent
+- Personally identifiable information of others without permission
+
+### 12.3 In-App Reporting and Flagging
+- Every AI-generated output and user-uploaded content surface includes a "Report" action, allowing users to flag offensive or prohibited content.
+- Report categories include (but are not limited to): sexual content, violence/hate, harassment/bullying, privacy violation, IP infringement, spam/scam, other.
+- Within the report flow, users can add an optional note and contact email for follow-up.
+
+### 12.4 Moderation and Enforcement
+- Reported content is queued for review by our moderation team.
+- Timeframes: urgent categories (e.g., child safety, explicit sexual content, credible threats) are prioritized; we aim to review high-severity reports within 24 hours, and all reports within 72 hours.
+- Actions may include: content removal, temporary or permanent account suspension, feature restrictions, and reporting to authorities when legally required.
+- We maintain audit logs of moderation decisions and preserve evidence as required by law.
+
+### 12.5 User Controls
+- Users can delete their own generated outputs and uploaded photos at any time.
+- Users can block or mute other user accounts (if applicable features exist in your region/version).
+- Users can limit who can interact with them (e.g., only contacts/friends) where supported.
+
+### 12.6 Appeals Process
+- If your content is removed or your account is restricted, you may appeal via the in-app appeal form or by emailing support at `tafakkur.dev@gmail.com`.
+- Appeals are reviewed by a separate reviewer when possible. We will notify you of the outcome and reinstatement if the appeal is approved.
+
+### 12.7 Data Handling for Reports
+- Report submissions may include reporter contact information, content identifiers, timestamps, device/IP metadata, and the report category and notes.
+- We process this data solely to investigate and resolve the report, enforce our policies, and maintain platform safety.
+- Report data is retained for up to 24 months (or longer if required by law or ongoing proceedings) and then deleted or anonymized.
+
 ---
 
-**Last Updated**: September 20, 2025  
-**Policy Version**: 1.0
+**Last Updated**: September 23, 2025  
+**Policy Version**: 1.1
 
 By using the TryVibe application, you acknowledge that you have read, understood, and agree to the collection and use of information in accordance with this Privacy Policy.
